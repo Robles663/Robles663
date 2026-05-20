@@ -39,6 +39,6 @@ ETL pipelines, or applying ML to real-world problems
 roblesliz.alejandro@gmail.com
 
 ### ⚡ Fun fact
-My background is in Aerospace Engineering — 
-turns out the analytical thinking transfers 
-really well to data.
+I'm a rock climber and my favorite animal is the turtle.
+One teaches you to push limits, the other teaches you
+that slow and steady actually works.
