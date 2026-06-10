@@ -5,10 +5,6 @@ experience in data cleaning, ETL pipelines, machine learning,
 and BI dashboards. I enjoy turning messy, complex datasets 
 into clear insights that support real decisions.
 
-### 🔭 Currently working on
-- Large-scale Airbnb user behavior analysis (16.5M rows)
-  studying how length of stay shapes accommodation preferences
-
 ### 🌱 Currently learning
 - Snowflake and cloud data warehousing
 - Advanced causal inference and A/B testing methodologies
